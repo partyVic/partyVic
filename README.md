@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @partyVic
 - 👀 I’m interested in thinking, reading and coding
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MongoDB, MySQL projects 
+- 🌱 I’m a MERN stack developer
+- 💞️ I’m looking to collaborate on React & Node.js projects
 - 📫 How to reach me ... :-)
 
 <!---
