@@ -48,8 +48,9 @@ const partyVic = {
 
 
 ### 📈 My Github stats
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=partyVic_icons=true&locale=en&layout=compact" alt="partyVic" /></p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=partyVic&show_icons=true&theme=gotham" alt="partyVic" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=partyVic&show_icons=true&locale=en" alt="partyVic" />
 
 
 <!-- - 👋 
