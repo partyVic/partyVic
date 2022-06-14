@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @partyVic
-- 👀 I’m interested in thinking, reading and coding
-- 🌱 I’m a MERN stack developer
-- 💞️ I’m looking to collaborate on React & Node.js projects
-- 📫 How to reach me ... :-)
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">Hi, there. Nice to see you!</h2>
 
-<!---
-partyVic/partyVic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️ &nbsp;I’m currently working on something cool
+- 👀 &nbsp;I like thinking, reading and coding
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/partyVic)
+[![GitHub followers](https://img.shields.io/github/followers/partyvic?label=follow&style=social)](https://github.com/partyVic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=partyvic.partyvic)
+
+
+<!-- - 👋 
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
+- 🔭
+- 💬
+- 📫
+- 👨‍💻
+- ⚡
+- 🛠️
+- 📈
+- ✨ -->
