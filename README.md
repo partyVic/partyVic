@@ -14,16 +14,24 @@
 ```javascript
 const partyVic = {
   pronouns: "He" | "Him",
+  
   code: [HTML, CSS, Javascript, Typescript],
+  
   tools: [React, Next.js, Redux, Node.js, Express, MongoDB, Docker, CLI],
+  
   architecture: ["RESTful API", "serverless", "single page app", "progressive web app"],
+  
   currentFocus: {
                         devOps: ["AWS", "Docker"],
                         tools: ["Jest", "Happo", "Figma"],
                         database: ["GraphQL", "Redis"]
                 },
+                
   funFact: "My wife told me that I care about programming more than about her. 
-           I told her that in array of my interests she is [1] - she was satisfied."
+            I told her that in array of my interests she is [1] - she was satisfied.",
+            
+  challenge: "Life is hard, but I still have to play out the script.
+              Dont't be afraid of the failures, at least I know where the boundaries of my abilities are."
 }
 ```
 
