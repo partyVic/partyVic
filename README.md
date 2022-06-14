@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/partyvic?label=follow&style=social)](https://github.com/partyVic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=partyvic.partyvic)
 
-<br />
+
 
 ### A little more about me ...
 
@@ -21,13 +21,12 @@ const partyVic = {
                         devOps: ["AWS", "Docker"],
                         tools: ["Jest", "Happo", "Figma"],
                         database: ["GraphQL", "Redis"]
-                      },
+                },
   funFact: "My wife told me that I care about programming more than about her. 
            I told her that in array of my interests she is [1] - she was satisfied"
 }
 ```
 
-<br />
 
 ### I am coding with
 
@@ -47,7 +46,6 @@ const partyVic = {
 </p>
 
 
-<br />
 
 ### 📈 My Github stats
 
