@@ -22,7 +22,8 @@ const partyVic = {
                         tools: ["Jest", "Happo", "Figma"],
                         database: ["GraphQL", "Redis"]
                       },
-  funFact: "My wife told me that I care about programming more than about her. I told her that in array of my interests she is [1] - she was satisfied"
+  funFact: "My wife told me that I care about programming more than about her. 
+           I told her that in array of my interests she is [1] - she was satisfied"
 }
 ```
 
