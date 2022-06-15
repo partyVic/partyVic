@@ -30,7 +30,7 @@ const partyVic = {
   funFact: "My wife told me that I care about programming more than about her. 
             I told her that in array of my interests she is [1] - she was satisfied.",
             
-  challenge: "Life is hard, but I still have to play out the script.
+  challenge: "Life is hard, but I still have to play out my script.
               Dont't be afraid of the failures, at least I know where the boundaries of my abilities are."
 }
 ```
