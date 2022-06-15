@@ -13,7 +13,7 @@
 
 ```javascript
 const partyVic = {
-  pronouns: "He" | "Him",
+  pronouns: "He" || "Him",
   
   code: [HTML, CSS, Javascript, Typescript],
   
